@@ -1,24 +1,125 @@
-# 💫 About Me:
-🌟 Hi, I'm Payal Chandrapal Chapre!<br>AI & Android Developer | AI & ML Enthusiast | NPTEL Star<br>🚀 About Me<br><br>I am an AI & ML engineering student passionate about Android development, machine learning, and building intelligent applications that solve real-world problems. I love combining mobile development with powerful AI models to create impactful, user-friendly experiences.<br><br>I’m also deeply interested in astronomy, learning, and exploring new technologies that push boundaries.<br><br>🎯 I’m currently working on<br><br>AI-Integrated Green Reminder Smart Pot – a smart plant-care + emotional well-being system using sensors & AI.<br><br>Building Android apps using Kotlin, Jetpack Compose, and ML integration.<br><br>Computer Vision-based forensic analysis for image/video authenticity.<br><br>Integrating Python backends with React frontends.<br><br>Business Intelligence & Power BI for academic projects.<br><br>🤝 I’m looking to collaborate on<br><br>Android apps (Kotlin, Jetpack Compose)<br><br>ML/AI projects (DL, CV, NLP)<br><br>AI for education & student learning<br><br>Deep learning model optimization<br><br>Cross-platform mobile + IoT + ML systems<br><br>🆘 I’m looking for help with<br><br>Scaling ML models for real-time inference<br><br>Advanced Android UI/UX structures<br><br>Cloud deployment (AWS/GCP/Azure)<br><br>Industry-level CV pipelines<br><br>🌱 I’m currently learning<br><br>Android Development from scratch (30-day plan)<br><br>Jetpack Compose<br><br>Computer Vision, Digital Image Processing<br><br>German language 🇩🇪<br><br>Backend + Frontend Integration (Python + React)<br><br>Power BI dashboards & reports<br><br>💬 Ask me about<br><br>Android + AI integrated applications<br><br>Machine learning pipelines (preprocessing → modeling → evaluation)<br><br>Deep learning, neural networks, XGBoost<br><br>Computer Vision for deepfake & forgery detection<br><br>Astronomy 🌌<br><br>Task management, team communication & productivity<br><br>NPTEL courses (I’m an NPTEL Star ⭐)<br><br>⚡ Fun Facts<br><br>I’m a Swiftie 💛 and a huge Shreya Ghoshal fan.<br><br>Music is my calm when I’m stressed.<br><br>I dream of having an astronomy-themed room with a telescope.<br><br>I completed 4 NPTEL courses in one go.<br><br>I love dancing and wish I had learned it earlier.<br><br>Computers feel like an instrument I want to master.<br><br>🛠️ Projects Based on My Skills<br>🔹 Android Development<br><br>Shopping List App – Kotlin + Jetpack Compose<br><br>Smart Plant Health App (for Smart Pot project)<br><br>AI-Enabled Study Assistant<br><br>Emotion-based Quote Generator App<br><br>Attendance Scanner App (CV)<br><br>🔹 Machine Learning & AI<br><br>Stock Price Prediction (XGBoost – 78% accuracy)<br><br>Deepfake Detection System<br><br>Image/Video Forgery & Authenticity Checker<br><br>Student Learning Recommendation Engine<br><br>Astronomy Object Classification (passion-based project)<br><br>🔹 Computer Vision<br><br>Signature Verification<br><br>Forensic Dataset Analysis<br><br>Document & Image Tampering Detection<br><br>Plant Disease Classification Using CV<br><br>🔹 Web + AI Integration<br><br>Predictive Analytics Dashboard<br><br>Face-Scan Identity Verification App<br><br>NLP-based Chat Interface (Python backend + React UI)<br><br>📫 Reach Me At<br><br>Phone: +91 8446200855<br><br>Location: Nagpur, India<br><br>Working on building a professional online presence!
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Hi,%20I'm%20Payal%20Chapre!&fontSize=70&animation=fadeIn&fontAlignY=35&desc=AI%20Developer%20%7C%20Android%20Enthusiast%20%7C%20NPTEL%20Star&descAlignY=60&descAlign=50" />
 
+  <br/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_payal_chapre_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/payalchapre) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chaprepayal30@gmail.com) 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3E6B94&center=true&vCenter=true&width=600&lines=Building+AI-Integrated+Android+Apps;Explaining+ML+Pipelines;Analyzing+Forensic+Data;Dreaming+of+Astronomy+%F0%9F%8C%8C" alt="Typing SVG" />
+  </a>
+</div>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Payal-codehub&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Payal-codehub&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Payal-codehub&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+### 🚀 **About Me**
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Payal-codehub&limit=5&theme=dark&combine_all_yearly_contributions=true)
+> I am an **AI & ML engineering student** passionate about combining mobile development with powerful AI models. Whether it's building smart plant-care systems or detecting deepfakes, I love solving real-world problems with code. I am based in **Nagpur, India**.
+
+- 🔭 **I’m currently working on:** AI-Integrated Green Reminder Smart Pot & Computer Vision Forensic Analysis.
+- 🌱 **I’m currently learning:** German 🇩🇪, Advanced Jetpack Compose, and Cloud Deployment.
+- 🤝 **I’m looking to collaborate on:** Android Apps (Kotlin), Deep Learning optimizations, and EdTech AI.
+- ⭐ **Achievement Unlocked:** I am an **NPTEL Star**, having completed 4 courses in a single run!
+
+<br/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Payal-codehub&icon=2&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🛠️ **Tech Stack & Arsenal**
+
+<div align="center">
+
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+
+**AI / ML / Data Science**
+<br/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+
+**Android & Mobile**
+<br/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+
+**Backend & Web**
+<br/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+
+**Tools & Cloud**
+<br/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+</div>
+
+---
+
+### 💻 **Highlighted Projects**
+
+| Project                         | Description                                                            | Tech Stack                    |
+| :------------------------------ | :--------------------------------------------------------------------- | :---------------------------- |
+| **🤖 Green Reminder Smart Pot** | IoT system combining plant care sensors with emotional well-being AI.  | Python, IoT, Android          |
+| **🕵️‍♀️ Deepfake Detection**       | Computer Vision system to detect video forgery and authenticate media. | OpenCV, CNNs, Python          |
+| **📈 Stock Price Prediction**   | Machine Learning model achieving **78% accuracy** using XGBoost.       | XGBoost, Pandas, Scikit-learn |
+| **📱 Shopping List App**        | A modern Android application built with Jetpack Compose.               | Kotlin, Jetpack Compose       |
+| **🌌 Astronomy Classifier**     | Object classification for celestial bodies (Passion Project).          | TensorFlow, CNN               |
+
+<br/>
+
+---
+
+### ⚡ **Fun Facts & Interests**
+
+- 💛 **Swiftie Forever:** Huge Taylor Swift fan. Also, Shreya Ghoshal's voice is my therapy.
+- 🔭 **Space Dreamer:** My dream room is astronomy-themed with a massive telescope.
+- 📚 **Super Learner:** I once completed **4 NPTEL courses** in one go!
+- 💃 **Dancing:** I love dancing and wish I had started learning it professionally earlier.
+
+---
+
+### 📊 **GitHub Stats**
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Missconfigured30&show_icons=true&theme=tokyonight" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Missconfigured30&layout=compact&theme=tokyonight" height="180" alt="languages graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Missconfigured30&theme=tokyonight" alt="streak graph" />
+</div>
+
+---
+
+### 📫 **Let's Connect**
+
+<div align="center">
+
+<a href="https://linkedin.com/in/payalchapre">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:chaprepayal30@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://instagram.com/_payal_chapre_">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+
+</div>

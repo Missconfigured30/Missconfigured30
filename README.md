@@ -62,12 +62,12 @@
 
 ### 💻 **Highlighted Projects**
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **📊 DocSync Auditor** | Desktop app that audits document repositories against an Excel index and generates formatted Excel reports with charts. | Python |
-| **🕵️ QUG Staleness Detector** | Script using perceptual image hashing to flag old-format Quick User Guides across a SharePoint repository. | Python |
-| **📝 Doc Reformatter** | Automation tool that reformats Word documents to match org branding standards. | Python, python-docx |
-| **🧁 coco_bakes** | Personal bakery app — a learning sandbox for Flutter and Dart. | Flutter, Dart |
+| Project                         | Description                                                            | Tech Stack                    |
+| :------------------------------ | :--------------------------------------------------------------------- | :---------------------------- |
+| **🕵️‍♀️ Deepfake Detection**       | Computer Vision system to detect video forgery and authenticate media. | OpenCV, CNNs, Python          |
+| **📈 Stock Price Prediction**   | Machine Learning model achieving **78% accuracy** using XGBoost.       | XGBoost, Pandas, Scikit-learn |
+| **📱 Shopping List App**        | A modern Android application built with Jetpack Compose.               | Kotlin, Jetpack Compose       |
+| **DocSync Auditor**              | A Real-World Application for Major Industry Problems.                  | Python                        |
 
 <br/>
 

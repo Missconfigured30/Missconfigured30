@@ -79,7 +79,7 @@
 | **🕵️‍♀️ Deepfake Detection**       | Computer Vision system to detect video forgery and authenticate media. | OpenCV, CNNs, Python          |
 | **📈 Stock Price Prediction**   | Machine Learning model achieving **78% accuracy** using XGBoost.       | XGBoost, Pandas, Scikit-learn |
 | **📱 Shopping List App**        | A modern Android application built with Jetpack Compose.               | Kotlin, Jetpack Compose       |
-| **   DocSynt Auditor            | A Real-World Application for Major Industry Problems.                  | Python         |
+| **DocSync Auditor**              | A Real-World Application for Major Industry Problems.                  | Python                        |
 
 <br/>
 

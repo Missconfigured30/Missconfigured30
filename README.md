@@ -4,7 +4,7 @@
   <br/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3E6B94&center=true&vCenter=true&width=600&lines=Writing+Docs+for+Healthcare+AI;Scripting+for+PrognoAI;Automating+Documentation+Workflows;Learning+Java+%26+Flutter+on+the+Side" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3E6B94&center=true&vCenter=true&width=600&lines=Writing+Docs+for+PrognoCIS;Building+Android+Apps;Looking+Forward+for+Higher+Education+Opportunity;Automating+Documentation+Workflows;Learning+Java+%26+Flutter+on+the+Side" alt="Typing SVG" />
   </a>
 </div>
 
@@ -12,7 +12,7 @@
 
 ### 🚀 **About Me**
 
-> I'm a **Technical Writer at Bizmatics Inc.**, working on the **PrognoCIS** healthcare platform with a background in **AI/ML (B.Tech)**. My day-to-day spans video scripting, Quick User Guides (QUGs), and document automation — most recently for **PrognoAI**, our clinical documentation AI. I'm based in **Mumbai** and building toward a career that blends writing, automation, and my ML roots.
+> I'm a **Technical Writer at Bizmatics Inc.**, working on the **PrognoCIS** healthcare platform with a background in **AI/ML (B.Tech)**. My day-to-day spans video scripting, Quick User Guides (QUGs), and document automation — most recently for **PrognoAI**, our clinical documentation AI. I'm based in **Nagpur** and building toward a career that blends writing, automation, and my ML roots.
 
 - 🔭 **I'm currently working on:** Content and documentation for PrognoAI (video scripts, QUGs, visual assets) as part of the Training & Documentation team at Bizmatics
 - 🌱 **I'm currently learning:** Java and Flutter, using a personal bakery app project (**coco_bakes**) as my sandbox

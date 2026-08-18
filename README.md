@@ -4,8 +4,8 @@
   <br/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3E6B94&center=true&vCenter=true&width=600&lines=Writing+Docs+for+PrognoCIS;Building+Android+Apps;Looking+Forward+for+Higher+Education+Opportunity;Automating+Documentation+Workflows;Learning+Java+%26+Flutter+on+the+Side" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3E6B94&center=true&vCenter=true&width=600&lines=Writing+Docs+for+PrognoCIS;Building+Android+Apps;Exploring+Higher+Education+Opportunities;Automating+Documentation+Workflows;Learning+Java+%26+Flutter" alt="Typing SVG" />
+</a>
 </div>
 
 <br/>

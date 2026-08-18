@@ -14,8 +14,8 @@
 
 > I am an **AI & ML engineering student** passionate about combining mobile development with powerful AI models. Whether it's building smart plant-care systems or detecting deepfakes, I love solving real-world problems with code. I am based in **Nagpur, India**.
 
-- 🔭 **I’m currently working on:** AI-Integrated Green Reminder Smart Pot & Computer Vision Forensic Analysis.
-- 🌱 **I’m currently learning:** German 🇩🇪, Advanced Jetpack Compose, and Cloud Deployment.
+- 🔭 **I’m currently working as** Techncical Writer Intern at Bizmatics Inc
+- 🌱 **I’m currently learning:** German 🇩🇪, Advanced Jetpack Compose, and Java.
 - 🤝 **I’m looking to collaborate on:** Android Apps (Kotlin), Deep Learning optimizations, and EdTech AI.
 - ⭐ **Achievement Unlocked:** I am an **NPTEL Star**, having completed 4 courses in a single run!
 

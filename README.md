@@ -15,7 +15,7 @@
 > I am an **AI & ML engineering student** passionate about combining mobile development with powerful AI models. Whether it's building smart plant-care systems or detecting deepfakes, I love solving real-world problems with code. I am based in **Nagpur, India**.
 
 - 🔭 **I’m currently working as** Techncical Writer Intern at Bizmatics Inc
-- 🌱 **I’m currently learning:** German 🇩🇪, Advanced Jetpack Compose, and Java.
+- 🌱 **I’m currently learning:** German, Advanced Jetpack Compose, and Java.
 - 🤝 **I’m looking to collaborate on:** Android Apps (Kotlin), Deep Learning optimizations, and EdTech AI.
 - ⭐ **Achievement Unlocked:** I am an **NPTEL Star**, having completed 4 courses in a single run!
 
@@ -76,11 +76,10 @@
 
 | Project                         | Description                                                            | Tech Stack                    |
 | :------------------------------ | :--------------------------------------------------------------------- | :---------------------------- |
-| **🤖 Green Reminder Smart Pot** | IoT system combining plant care sensors with emotional well-being AI.  | Python, IoT, Android          |
 | **🕵️‍♀️ Deepfake Detection**       | Computer Vision system to detect video forgery and authenticate media. | OpenCV, CNNs, Python          |
 | **📈 Stock Price Prediction**   | Machine Learning model achieving **78% accuracy** using XGBoost.       | XGBoost, Pandas, Scikit-learn |
 | **📱 Shopping List App**        | A modern Android application built with Jetpack Compose.               | Kotlin, Jetpack Compose       |
-| **🌌 Astronomy Classifier**     | Object classification for celestial bodies (Passion Project).          | TensorFlow, CNN               |
+| **   DocSynt Auditor            | A Real-World Application for Major Industry Problems.                  | Python         |
 
 <br/>
 
